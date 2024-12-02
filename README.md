@@ -1,4 +1,4 @@
-[<h4>😺 Show my Github 😺</h4> 
+<h4>😺 Show my Github 😺</h4> 
 <h4>⚒️ Tech Stack ⚒️</h4>
 <div>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
