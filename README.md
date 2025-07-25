@@ -19,6 +19,6 @@
     <div style="text-align: left;"> <a href="https://www.instagram.com/lateamare?igsh=MTA2NmgzcXRidWU1ag%3D%3D&utm_source=qr"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=" target="_blank> </a>
           </div> 
         <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;"></div> 
     </div>
 <br>
